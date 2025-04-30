@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+#properties file
+src/main/resources/application-dev.properties
